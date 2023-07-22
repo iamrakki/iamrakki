@@ -1,7 +1,7 @@
 ### Hi there, I'm Rakki👋
 
 
-# A Passionate Developer 
+# A Passionate Blockchain Developer 
 
 ## About Me 🤷🏻‍♂️
 
