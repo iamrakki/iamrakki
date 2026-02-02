@@ -165,7 +165,7 @@ const currentGoals = {
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🔐 Smart Contract Development
 - ✅ ERC-20/721/1155 token standards
@@ -175,7 +175,7 @@ const currentGoals = {
 - ✅ Comprehensive testing & auditing
 
 </td>
-<td width="50%">
+<td width="28%">
 
 ### 🌉 Cross-chain & Infrastructure
 - ✅ Bridge protocol design
@@ -183,6 +183,16 @@ const currentGoals = {
 - ✅ Node infrastructure setup
 - ✅ Performance monitoring
 - ✅ DevOps automation
+
+</td>
+<td width="35%">
+
+### 🏗️ Hyperledger Fabric Expertise
+- ✅ MSP, identity & access management
+- ✅ Channel & endorsement policies
+- ✅ Peer lifecycle, CA setup & CA rotation
+- ✅ Chaincode development (Go)
+- ✅ Performance tuning, monitoring
 
 </td>
 </tr>
