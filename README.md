@@ -47,7 +47,7 @@ impl BlockchainDeveloper {
             name: "Rakki R".to_string(),
             role: "Blockchain Developer".to_string(),
             experience_years: 3,
-            location: "Ambattur, Tamil Nadu, IN".to_string(),
+            location: "Chennai, Tamil Nadu, IN".to_string(),
             current_focus: vec![
                 "Advanced Smart Contract Patterns".to_string(),
                 "Rust Blockchain Development".to_string(),
